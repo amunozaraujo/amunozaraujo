@@ -1,16 +1,22 @@
-## Hi there 👋
+### Alejandro Muñoz Araujo
 
-<!--
-**amunozaraujo/amunozaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Medicina. Construyo **Anatomia De Lo Invisible**, una plataforma de divulgación médica que en la que trato de comprender, integrar y explicar la ciencia detrás del cuerpo humano.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🌱 Sobre el proyecto**
+- Divulgación médica basada en fisiología, mecanismos y evidencia
+- Construido con Astro + TypeScript + Tailwind CSS
+- **Stack técnico**
+`Astro` · `TypeScript` · `Tailwind CSS` · `MDX` · `Vercel`
+
+**📝 Formación**
+- Estudiante de Medicina
+- Interés en investigación biomédica y ciencias básicas
+
+
+
+**📫 Contacto**
+- Web: [en construcción]
+
+---
+*Este perfil, como el proyecto, está en construcción activa.*
