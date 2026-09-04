@@ -12,6 +12,7 @@ Estudiante de Medicina. Autor de **Anatomia De Lo Invisible**, una plataforma de
 **📝 Formación**
 - Estudiante de Medicina
 - Interés en investigación biomédica y ciencias básicas
+- Compromiso con la divulgación científica
 
 
 
