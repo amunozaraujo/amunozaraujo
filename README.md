@@ -1,6 +1,6 @@
 ### Alejandro Muñoz Araujo
 
-Estudiante de Medicina. Construyo **Anatomia De Lo Invisible**, una plataforma de divulgación médica que en la que trato de comprender, integrar y explicar la ciencia detrás del cuerpo humano.
+Estudiante de Medicina. Autor de **Anatomia De Lo Invisible**, una plataforma de divulgación médica en la que trato de comprender, integrar y explicar la ciencia detrás del cuerpo humano.
 
 
 **🌱 Sobre el proyecto**
